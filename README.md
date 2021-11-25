@@ -21,7 +21,7 @@ La base para creear una pagina y su presentacion
 <a href="#" class="nav_items nav_items--cta"> CONTACTAME</a>
 <a href="#" class="nav_items"> SOBRE MI</a> 
 <a href="#" class="nav_items"> PROYECTO </a>
-<img src="img/navidad 1.jpg " width="1400" height="700" alt="">
+<img src="pagina navideña juan carlos/img/navidad 1.jpg " width="1400" height="700" alt="">
 <!--En este se agrega la imagen a usar con el tamaño en cuestion-->
 </nav>
 <section class="hero_container"> 
